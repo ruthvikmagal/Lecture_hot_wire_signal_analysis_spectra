@@ -7,4 +7,5 @@ Tutorial instructions:
 
 In case of doubt, refer to the example dataset included with the notebook.
 
-Use a Jupyter Notebook reader to view the lecture. Eg. nbviewer https://nbviewer.org/ 
+Use Binder to view the lesson as an executable - https://mybinder.org/
+Alternatively, use a Jupyter Notebook reader to view the lecture. Eg. nbviewer https://nbviewer.org/ 
